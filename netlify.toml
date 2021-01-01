@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/"
+  to = "/2021"
+  status = 301
