@@ -1,8 +1,8 @@
 
-# 🎱 2021 Predictions
+# 🎱 Predictions archive
 
-Static archive of the 2021 predictions game.
+Static archive of our yearly predictions game.
 
-For the app that powered the 2021 predictions game, see
+For the web app that powers the predictions game, see
 [`@jeancochrane/predictions`](https://github.com/jeancochrane/predictions).
 
